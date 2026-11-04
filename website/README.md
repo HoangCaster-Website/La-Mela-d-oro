@@ -43,7 +43,7 @@ Khách chọn món → xem tổng tiền → có thể sao chép danh sách → 
 - Hero pizza vẫn là ảnh minh họa do built-in imagegen tạo và có ghi rõ “KI-generiertes Stimmungsbild · Serviervorschlag”; không đại diện cho ảnh món thật của nhà hàng. Khu khám phá, giới thiệu, đặt món và gallery dùng ảnh thực tế khách cung cấp. Nguồn và xử lý ảnh ghi trong `ASSETS.md`.
 - Hai crop sushi/tagliatelle từ menu gốc vẫn lưu trong assets để đối chiếu nhưng không dùng trên homepage.
 - `dist/assets/original-menu/`: đủ 25 trang menu, dùng làm đối chiếu tùy chọn qua nút Originalkarte; menu HTML là trải nghiệm chính.
-- Bebas Neue và Caveat: self-host, giấy phép SIL Open Font License trong `dist/assets/`. Không có asset/font/CSS nào được sao chép từ L’Osteria.
+- Bebas Neue cho heading, Arial/Helvetica chữ đứng cho nội dung và UI. Đã bỏ font viết tay Caveat khỏi giao diện theo phản hồi khách. Font tự host có giấy phép SIL Open Font License trong `dist/assets/`; không có asset/font/CSS nào được sao chép từ L’Osteria.
 
 ## Kiểm tra đã thực hiện
 

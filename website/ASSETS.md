@@ -37,7 +37,7 @@ Website does not fetch stock imagery or assets from L’Osteria.
 
 ## Fonts
 
-Bebas Neue and Caveat, Google Fonts, SIL OFL. Self-hosted TTF files and licenses are shipped with the website. UI/body text uses system Arial/Helvetica. No requests to external font services are needed at runtime.
+Bebas Neue, Google Fonts, SIL OFL, remains the self-hosted display face. All supporting text, gallery captions, category shortcuts, and footer navigation use upright system Arial/Helvetica. Caveat was removed from the active stylesheet following customer feedback on 4 November 2026; its archived font/license assets remain unused. No requests to external font services are needed at runtime.
 
 ## Menu update · 15 October 2026
 
